@@ -1,4 +1,4 @@
-## Hi there 👋
+to remove i'm currently learnin## Hi there 👋
 
 <!--
 **Vikassrvicky/Vikassrvicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
